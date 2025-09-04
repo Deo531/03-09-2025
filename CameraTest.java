@@ -15,6 +15,7 @@ public class CameraTest {
 
         Camera remote5 = new Camera();
         remote5.play();
+        remote5.menu();
 
         
     }
